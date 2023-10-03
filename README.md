@@ -14,6 +14,7 @@
 
 ```sh
 git clone https://github.com/Tadior/MStroy.git
+cd MStroy
 npm i
 npm run test
 ```
